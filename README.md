@@ -1,17 +1,10 @@
 # Elena Veljanovska  
 **Project Manager (AI, Agile)**  
-📍 Berlin, Germany  
-📞 015753062588  
-✉️ [elena.veljanovska@protonmail.com](mailto:elena.veljanovska@protonmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/elena-veljanovska/)
-
----
 
 ## About Me
 
 Seasoned project manager and Scrum Master with international leadership experience delivering complex, multi-stakeholder projects across the cultural, civic, and digital sectors. Proven ability to lead cross-functional teams in distributed and hybrid environments, with a strong track record in end-to-end project delivery—from strategic planning and funding acquisition to implementation, evaluation, and reporting. Tech-savvy and highly motivated to develop digital products in the IT sector.
 
----
 
 ## Work Experience
 
@@ -94,7 +87,7 @@ Agile Mindset, Scrum, Coaching, Facilitation, Change Management, Conflict Resolu
 Leadership, Self-reflection, Emotional Intelligence, Communication, Teamwork, Problem-solving, Analytical Thinking, Self-organization  
 
 **Technical Tools:**  
-Asana, Trello, Jira, Slack, Notion, Miro, Google Workspace, MS Office, Merlin Project, Generative AI, Liberating Structures  
+Asana, Trello, Jira, Slack, Notion, Miro, Google Workspace, MS Office, Generative AI, Liberating Structures  
 
 ---
 
@@ -108,3 +101,11 @@ Asana, Trello, Jira, Slack, Notion, Miro, Google Workspace, MS Office, Merlin Pr
 ---
 
 *Last updated: May 2025*
+
+---
+
+## Contact
+
+📍 Berlin, Germany  
+✉️ [elena.veljanovska@protonmail.com](mailto:elena.veljanovska@protonmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/elena-veljanovska/)
